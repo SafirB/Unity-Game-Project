@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\FinalYearWork\\FinalYearUnity\\StealthGame\\StealthGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1C004F-EE45-807C-02F5-02FACFC710FB}|Assembly-CSharp.csproj|D:\\Work\\FinalYearWork\\FinalYearUnity\\StealthGame\\StealthGame\\assets\\guardscripts\\patroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1C004F-EE45-807C-02F5-02FACFC710FB}|Assembly-CSharp.csproj|solutionrelative:assets\\guardscripts\\patroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1C004F-EE45-807C-02F5-02FACFC710FB}|Assembly-CSharp.csproj|d:\\work\\finalyearwork\\finalyearunity\\stealthgame\\stealthgame\\assets\\levelscripts\\leveltransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1C004F-EE45-807C-02F5-02FACFC710FB}|Assembly-CSharp.csproj|solutionrelative:assets\\levelscripts\\leveltransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1C004F-EE45-807C-02F5-02FACFC710FB}|Assembly-CSharp.csproj|d:\\work\\finalyearwork\\finalyearunity\\stealthgame\\stealthgame\\assets\\guardscripts\\adaptivepatroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1C004F-EE45-807C-02F5-02FACFC710FB}|Assembly-CSharp.csproj|solutionrelative:assets\\guardscripts\\adaptivepatroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1C004F-EE45-807C-02F5-02FACFC710FB}|Assembly-CSharp.csproj|D:\\Work\\FinalYearWork\\FinalYearUnity\\StealthGame\\StealthGame\\assets\\guardscripts\\adaptiveguard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1C004F-EE45-807C-02F5-02FACFC710FB}|Assembly-CSharp.csproj|solutionrelative:assets\\guardscripts\\adaptiveguard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1C004F-EE45-807C-02F5-02FACFC710FB}|Assembly-CSharp.csproj|D:\\Work\\FinalYearWork\\FinalYearUnity\\StealthGame\\StealthGame\\assets\\cameras\\spotlightdetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1C004F-EE45-807C-02F5-02FACFC710FB}|Assembly-CSharp.csproj|solutionrelative:assets\\cameras\\spotlightdetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1C004F-EE45-807C-02F5-02FACFC710FB}|Assembly-CSharp.csproj|D:\\Work\\FinalYearWork\\FinalYearUnity\\StealthGame\\StealthGame\\assets\\systems\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1C004F-EE45-807C-02F5-02FACFC710FB}|Assembly-CSharp.csproj|solutionrelative:assets\\systems\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1C004F-EE45-807C-02F5-02FACFC710FB}|Assembly-CSharp.csproj|D:\\Work\\FinalYearWork\\FinalYearUnity\\StealthGame\\StealthGame\\assets\\guardscripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1C004F-EE45-807C-02F5-02FACFC710FB}|Assembly-CSharp.csproj|solutionrelative:assets\\guardscripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1C004F-EE45-807C-02F5-02FACFC710FB}|Assembly-CSharp.csproj|D:\\Work\\FinalYearWork\\FinalYearUnity\\StealthGame\\StealthGame\\assets\\guardscripts\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1C004F-EE45-807C-02F5-02FACFC710FB}|Assembly-CSharp.csproj|solutionrelative:assets\\guardscripts\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1C004F-EE45-807C-02F5-02FACFC710FB}|Assembly-CSharp.csproj|D:\\Work\\FinalYearWork\\FinalYearUnity\\StealthGame\\StealthGame\\assets\\systems\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1C004F-EE45-807C-02F5-02FACFC710FB}|Assembly-CSharp.csproj|solutionrelative:assets\\systems\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1C004F-EE45-807C-02F5-02FACFC710FB}|Assembly-CSharp.csproj|D:\\Work\\FinalYearWork\\FinalYearUnity\\StealthGame\\StealthGame\\assets\\guardscripts\\guardfov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1C004F-EE45-807C-02F5-02FACFC710FB}|Assembly-CSharp.csproj|solutionrelative:assets\\guardscripts\\guardfov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Patroller.cs",
+              "DocumentMoniker": "D:\\Work\\FinalYearWork\\FinalYearUnity\\StealthGame\\StealthGame\\Assets\\GuardScripts\\Patroller.cs",
+              "RelativeDocumentMoniker": "Assets\\GuardScripts\\Patroller.cs",
+              "ToolTip": "D:\\Work\\FinalYearWork\\FinalYearUnity\\StealthGame\\StealthGame\\Assets\\GuardScripts\\Patroller.cs",
+              "RelativeToolTip": "Assets\\GuardScripts\\Patroller.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:19:45.728Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LevelTransition.cs",
+              "DocumentMoniker": "D:\\Work\\FinalYearWork\\FinalYearUnity\\StealthGame\\StealthGame\\Assets\\LevelScripts\\LevelTransition.cs",
+              "RelativeDocumentMoniker": "Assets\\LevelScripts\\LevelTransition.cs",
+              "ToolTip": "D:\\Work\\FinalYearWork\\FinalYearUnity\\StealthGame\\StealthGame\\Assets\\LevelScripts\\LevelTransition.cs",
+              "RelativeToolTip": "Assets\\LevelScripts\\LevelTransition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:36:44.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpotlightDetection.cs",
+              "DocumentMoniker": "D:\\Work\\FinalYearWork\\FinalYearUnity\\StealthGame\\StealthGame\\Assets\\Cameras\\SpotlightDetection.cs",
+              "RelativeDocumentMoniker": "Assets\\Cameras\\SpotlightDetection.cs",
+              "ToolTip": "D:\\Work\\FinalYearWork\\FinalYearUnity\\StealthGame\\StealthGame\\Assets\\Cameras\\SpotlightDetection.cs",
+              "RelativeToolTip": "Assets\\Cameras\\SpotlightDetection.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T02:45:50.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "D:\\Work\\FinalYearWork\\FinalYearUnity\\StealthGame\\StealthGame\\Assets\\GuardScripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\GuardScripts\\Bullet.cs",
+              "ToolTip": "D:\\Work\\FinalYearWork\\FinalYearUnity\\StealthGame\\StealthGame\\Assets\\GuardScripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\GuardScripts\\Bullet.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T03:01:43.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Gun.cs",
+              "DocumentMoniker": "D:\\Work\\FinalYearWork\\FinalYearUnity\\StealthGame\\StealthGame\\Assets\\GuardScripts\\Gun.cs",
+              "RelativeDocumentMoniker": "Assets\\GuardScripts\\Gun.cs",
+              "ToolTip": "D:\\Work\\FinalYearWork\\FinalYearUnity\\StealthGame\\StealthGame\\Assets\\GuardScripts\\Gun.cs",
+              "RelativeToolTip": "Assets\\GuardScripts\\Gun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T02:51:01.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdaptivePatroller.cs",
+              "DocumentMoniker": "D:\\Work\\FinalYearWork\\FinalYearUnity\\StealthGame\\StealthGame\\Assets\\GuardScripts\\AdaptivePatroller.cs",
+              "RelativeDocumentMoniker": "Assets\\GuardScripts\\AdaptivePatroller.cs",
+              "ToolTip": "D:\\Work\\FinalYearWork\\FinalYearUnity\\StealthGame\\StealthGame\\Assets\\GuardScripts\\AdaptivePatroller.cs",
+              "RelativeToolTip": "Assets\\GuardScripts\\AdaptivePatroller.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAQwKAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T23:22:50.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GuardFOV.cs",
+              "DocumentMoniker": "D:\\Work\\FinalYearWork\\FinalYearUnity\\StealthGame\\StealthGame\\Assets\\GuardScripts\\GuardFOV.cs",
+              "RelativeDocumentMoniker": "Assets\\GuardScripts\\GuardFOV.cs",
+              "ToolTip": "D:\\Work\\FinalYearWork\\FinalYearUnity\\StealthGame\\StealthGame\\Assets\\GuardScripts\\GuardFOV.cs",
+              "RelativeToolTip": "Assets\\GuardScripts\\GuardFOV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T02:57:38.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdaptiveGuard.cs",
+              "DocumentMoniker": "D:\\Work\\FinalYearWork\\FinalYearUnity\\StealthGame\\StealthGame\\Assets\\GuardScripts\\AdaptiveGuard.cs",
+              "RelativeDocumentMoniker": "Assets\\GuardScripts\\AdaptiveGuard.cs",
+              "ToolTip": "D:\\Work\\FinalYearWork\\FinalYearUnity\\StealthGame\\StealthGame\\Assets\\GuardScripts\\AdaptiveGuard.cs",
+              "RelativeToolTip": "Assets\\GuardScripts\\AdaptiveGuard.cs",
+              "ViewState": "AgIAAHsBAAAAAAAAAAAmwIwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T02:28:23.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\Work\\FinalYearWork\\FinalYearUnity\\StealthGame\\StealthGame\\Assets\\Systems\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Systems\\UIManager.cs",
+              "ToolTip": "D:\\Work\\FinalYearWork\\FinalYearUnity\\StealthGame\\StealthGame\\Assets\\Systems\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Systems\\UIManager.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T15:17:32.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "D:\\Work\\FinalYearWork\\FinalYearUnity\\StealthGame\\StealthGame\\Assets\\Systems\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Systems\\SoundManager.cs",
+              "ToolTip": "D:\\Work\\FinalYearWork\\FinalYearUnity\\StealthGame\\StealthGame\\Assets\\Systems\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\Systems\\SoundManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T18:22:14.046Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
